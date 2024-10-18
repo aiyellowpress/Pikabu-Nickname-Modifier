@@ -19,4 +19,6 @@
 ```
 https://docs.google.com/spreadsheets/d/1tGp5_PZHn4IMlf1fRh-DURdam9xKaSxJxRTMC3q05No/edit?usp=drive_link
 ```
-Из этой ссылки мы выделем код от *d/* до  */edit*, в данном случае это *1tGp5_PZHn4IMlf1fRh-DURdam9xKaSxJxRTMC3q05No*
+Из этой ссылки мы выделем код от *d/* до  */edit*, в данном случае это *1tGp5_PZHn4IMlf1fRh-DURdam9xKaSxJxRTMC3q05No* 
+Этот код мы и вставляем в настройках расширения
+
