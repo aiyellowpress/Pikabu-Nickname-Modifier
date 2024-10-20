@@ -1,0 +1,25 @@
+// manifest.json
+{
+  "manifest_version": 3,
+  "name": "Pikabu Nickname Modifier",
+  "version": "1.2",
+  "description": "Modifies nicknames on pikabu.ru based on a Google Sheet.",
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "options_page": "options.html",
+  "content_scripts": [
+    {
+      "matches": ["https://pikabu.ru/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+    "128": "icon.png"
+  }
+}
